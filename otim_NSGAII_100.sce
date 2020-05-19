@@ -1,6 +1,7 @@
 C=[]
 t=[]
 
+// função que descreve o modelo do fermentador
 function g=fermenter(V)
     to=0
     Co=[5;0;V(2);0] 
